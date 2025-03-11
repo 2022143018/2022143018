@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 신구대학교 22학번 AI 소프트웨어과 최현빈입니다.
+열심히 배우겠습니다
+- 2022143018 최현빈 이용희 교수님 과제
 <!--
 **2022143018/2022143018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
